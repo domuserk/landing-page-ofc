@@ -32,6 +32,14 @@ const SectionFaq = ({ title, questions }: SectionFaqProps) => (
             >
               minhas redes sociais
             </a>{' '}
+            ou entrar no{' '}
+            <a
+              href="https://www.linkedin.com/in/ryan-guilherme/"
+              target="_blank"
+              rel="noreferrer"
+            >
+             linkedin.
+            </a>
           </p>
         </S.ExtraQuestion>
       </Container>

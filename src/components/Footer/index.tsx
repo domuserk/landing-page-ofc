@@ -9,7 +9,11 @@ const Footer = () => (
     <Container>
       <p>
         Desenvolvido por{' '}
-        <a href="https://github.com/domuserk">Ryan Guilherme Lopes </a>e
+        <a href="https://github.com/domuserk/">Ryan Guilherme Lopes </a>e
+        <a href="https://github.com/domuserk"> Ryan Lopes</a>
+      </p>
+      <p>
+        Design por <a href="github.com/domuserk">Ryan Lopes</a>
       </p>
     </Container>
   </S.Wrapper>
