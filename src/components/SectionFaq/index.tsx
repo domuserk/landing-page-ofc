@@ -26,20 +26,12 @@ const SectionFaq = ({ title, questions }: SectionFaqProps) => (
           <p>
             Sem problemas! Você pode acessar qualquer uma das{' '}
             <a
-              href="https://willianjusten.com.br/about"
+              href="https://github.com/domuserk"
               target="_blank"
               rel="noreferrer"
             >
               minhas redes sociais
             </a>{' '}
-            ou entrar no{' '}
-            <a
-              href="https://willianjusten-cursos.slack.com/join/shared_invite/zt-g20h37hj-GnSb_y7PXCRjS92N9T8LCQ#/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              slack do nosso curso.
-            </a>
           </p>
         </S.ExtraQuestion>
       </Container>
