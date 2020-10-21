@@ -38,7 +38,7 @@ const SectionFaq = ({ title, questions }: SectionFaqProps) => (
               target="_blank"
               rel="noreferrer"
             >
-             linkedin.
+              linkedin.
             </a>
           </p>
         </S.ExtraQuestion>
